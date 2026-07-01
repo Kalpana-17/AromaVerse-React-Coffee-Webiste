@@ -11,7 +11,7 @@ function App() {
 
   return (
     <>
-      <BrowserRouter basename="/AromaVerse-React-Coffee-Webiste">
+      <BrowserRouter basename="/AromaVerse-React-Coffee-Webiste/">
         <Routes>
           <Route path="/" element={<Home />}/>
           <Route path="/store" element={<Store />}/>
