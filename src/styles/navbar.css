@@ -1,0 +1,27 @@
+nav {
+    background-color: rgb(238, 217, 196);
+    height: 85px;
+    margin: 1px 2px;
+    border: 1.7px dashed rgb(119, 73, 73);
+    font-size: 20px;
+}
+
+.navbar-collapse
+{
+    background-color: rgb(238, 217, 196);
+    z-index: 1050; /* above cards/content */
+}
+
+.cart-btn {
+    /* background-color: chocolate; */
+    background-color: green;
+}
+
+#logo-image {
+    width: 85px;
+    height: 85px;
+}
+
+.navbar-toggler {
+    background-color: rgb(238, 217, 196);
+}

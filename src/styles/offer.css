@@ -1,0 +1,9 @@
+.offer-alert { 
+    background: url('https://static.vecteezy.com/system/resources/previews/030/354/709/non_2x/top-view-glass-coffee-with-coffee-beans-isolated-white-background-international-coffee-day-concept-ai-generated-photo.jpg') no-repeat;
+    background-size: cover;
+}
+
+.offer-alert p {
+    color: rgb(12, 12, 12);
+    background-color: rgba(240, 248, 255, 0.559);
+}
